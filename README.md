@@ -30,10 +30,11 @@ Algunos de los lenguajes, herramientas y frameworks que actualmente manejo son l
 
 <p> Con vistas de continuar mejorando mis habilidades, skills y lenguajes, estoy apuntando en el corto-mediano plazo a aprender Typescript y Phyton, ademas de asistir a una academia de ingles para mejorar el nivel del mismo. <p>
 
-<div  align="center">
-<img align="center" alt="coding" src="https://user-images.githubusercontent.com/86179966/142563326-0eafcba0-101f-495a-bb6b-d62fda4d27af.gif">
-</div>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ezequiel-grigolatto/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ezequiel-grigolatto/" height="30" width="40" /></a>
+
+ 
+<div  align="center">
+<img align="center" alt="coding" src="https://user-images.githubusercontent.com/86179966/142563326-0eafcba0-101f-495a-bb6b-d62fda4d27af.gif">
+</div>
