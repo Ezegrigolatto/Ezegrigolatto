@@ -30,6 +30,5 @@ Algunos de los lenguajes, herramientas y frameworks que actualmente manejo son l
 
 Con vistas de continuar mejorando mis habilidades, skills y lenguajes, estoy apuntando en el corto-mediano plazo a aprender Typescript y Phyton, ademas de asistir a una academia de ingles para mejorar el nivel del mismo.
 
-![gif](https://user-images.githubusercontent.com/86179966/142563326-0eafcba0-101f-495a-bb6b-d62fda4d27af.gif)
 
-<img src="https://github.com/favicon.ico" width="48">
+<img  alt="coding" display="flex" justify-content="center" src="https://user-images.githubusercontent.com/86179966/142563326-0eafcba0-101f-495a-bb6b-d62fda4d27af.gif">
