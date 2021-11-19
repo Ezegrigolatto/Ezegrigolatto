@@ -6,7 +6,7 @@ Soy un desarrollador de Javascript en busqueda de proyectos y retos donde pueda 
 Apasionado por la tecnología y resolver problemas, ingresé en este hermoso mundo del desarrollo a finales de agosto y desde entonces no he dejado de adquirir conocimientos y aprender cosas nuevas día a día, algo que me agrada mucho por cierto ya que el crecimiento personal fue el motor que me impulsó a dar un giro a mi vida y comenzar a estudiar programación web.
 
 
-##TECH SKILLS
+### TECH SKILLS
 
 Algunos de los lenguajes, herramientas y frameworks que actualmente manejo son los siguientes: Javascript, Html, Css, React, Redux, Express, Node.js, sequelize, postgreSQL, NPM.
 
