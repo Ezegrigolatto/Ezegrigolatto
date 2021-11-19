@@ -28,7 +28,8 @@ Algunos de los lenguajes, herramientas y frameworks que actualmente manejo son l
 <a href="https://npmjs.com" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/npm-226037.png" alt="npm" width="40" height="40"/> </a>
 <a href="https://sequelize.org" target="_blank"> <img src="https://i.blogs.es/91493f/sequelize/1366_2000.png" alt="sequalize" width="80" height="40"/> </a>
 
-Con vistas de continuar mejorando mis habilidades, skills y lenguajes, estoy apuntando en el corto-mediano plazo a aprender Typescript y Phyton, ademas de asistir a una academia de ingles para mejorar el nivel del mismo.
+<p> Con vistas de continuar mejorando mis habilidades, skills y lenguajes, estoy apuntando en el corto-mediano plazo a aprender Typescript y Phyton, ademas de asistir a una academia de ingles para mejorar el nivel del mismo. <p>
 
-
-<img  alt="coding" display="flex" justify-content="center" src="https://user-images.githubusercontent.com/86179966/142563326-0eafcba0-101f-495a-bb6b-d62fda4d27af.gif">
+<div  align="center">
+<img align="center" alt="coding" src="https://user-images.githubusercontent.com/86179966/142563326-0eafcba0-101f-495a-bb6b-d62fda4d27af.gif">
+</div>
