@@ -5,7 +5,7 @@
 
 Soy un desarrollador de Javascript en busqueda de proyectos y retos donde pueda comenzar a probar mis skills y poner en practica dentro de un ambiente laboral todo lo aprendido durante mi estancia en el bootcamp de SoyHenry!
 
-Apasionado por la tecnología y resolver problemas, ingresé en este hermoso mundo del desarrollo a finales de agosto y desde entonces no he dejado de adquirir conocimientos y aprender cosas nuevas día a día, algo que me agrada mucho por cierto ya que el crecimiento personal fue el motor que me impulsó a dar un giro a mi vida y comenzar a estudiar programación web.
+Apasionado por la tecnología y resolver problemas, ingresé en este hermoso mundo del desarrollo a finales de agosto / 2021 y desde entonces no he dejado de adquirir conocimientos y aprender cosas nuevas día a día, algo que me agrada mucho por cierto ya que el crecimiento personal fue el motor que me impulsó a dar un giro a mi vida y comenzar a estudiar programación web.
 
 
  :point_right: **TECH SKILLS** :point_left:
