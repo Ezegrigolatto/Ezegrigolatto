@@ -1,4 +1,6 @@
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=rubik&color=%230474FF&size=25&lines=Bienvenidos+a+mi+perfil!)](https://git.io/typing-svg)
+
 ### Hola! Soy Ezequiel! 👋
 
 Soy un desarrollador de Javascript en busqueda de proyectos y retos donde pueda comenzar a probar mis skills y poner en practica dentro de un ambiente laboral todo lo aprendido durante mi estancia en el bootcamp de SoyHenry!
