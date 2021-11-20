@@ -3,15 +3,22 @@
 
 ### Hola! Soy Ezequiel! 👋
 
-Soy un desarrollador de Javascript en busqueda de proyectos y retos donde pueda comenzar a probar mis skills y poner en practica dentro de un ambiente laboral todo lo aprendido durante mi estancia en el bootcamp de SoyHenry!
+Soy un desarrollador fullstack de Javascript en busqueda de proyectos y retos donde pueda comenzar a probar mis skills y poner en practica dentro de un ambiente laboral todo lo aprendido durante mi estancia en el bootcamp de SoyHenry!
 
 Apasionado por la tecnología y resolver problemas, ingresé en este hermoso mundo del desarrollo a finales de agosto / 2021 y desde entonces no he dejado de adquirir conocimientos y aprender cosas nuevas día a día, algo que me agrada mucho por cierto ya que el crecimiento personal fue el motor que me impulsó a dar un giro a mi vida y comenzar a estudiar programación web.
 
+ :point_right: **ABOUT ME** :point_left:
+ 
+ Soy una persona muy amistosa, trato de llevarme bien con todo el mundo! 
+ Algunos de mis hobbies son escuchar musica, jugar videojuegos, leer, ver videos, y aprender cosas nuevas;  me gustaria comenzar a viajar y conocer otros lugares.
+ Me motiva el desafio, el probarme y querer superarme, en todo lo que hago trato siempre de poner mi mejor esfuerzo y dedicación para obtener un buen resultado final.
+ 
+ Actualmente me encuentro abierto a ofertas laborales y siento que puedo aportar algo interesante a las empresas o proyectos que me requieran dada mi alta capacidad de adaptación, responsabilidad y/o flexibilidad.
 
  :point_right: **TECH SKILLS** :point_left:
 
 Algunos de los lenguajes, herramientas y frameworks que actualmente manejo son los siguientes: Javascript, Html, Css, React, Redux, Express, Node.js, sequelize, postgreSQL, NPM.
-<h3 align="left">Languages and Tools:</h3>
+
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/> </a> 
@@ -28,7 +35,7 @@ Algunos de los lenguajes, herramientas y frameworks que actualmente manejo son l
 <a href="https://npmjs.com" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/npm-226037.png" alt="npm" width="40" height="40"/> </a>
 <a href="https://sequelize.org" target="_blank"> <img src="https://i.blogs.es/91493f/sequelize/1366_2000.png" alt="sequalize" width="80" height="40"/> </a>
 
-<p> Con vistas de continuar mejorando mis habilidades, skills y lenguajes, estoy apuntando en el corto-mediano plazo a aprender Typescript y Phyton, ademas de asistir a una academia de ingles para mejorar el nivel del mismo. <p>
+<p> Con vistas de continuar mejorando mis habilidades, skills y lenguajes, estoy apuntando en el corto-mediano plazo a aprender Typescript y Phyton, ademas de asistir a una academia para mejorar mi nivel de inglés. <p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
