@@ -33,7 +33,7 @@ Algunos de los lenguajes, herramientas y frameworks que actualmente manejo son l
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ezequiel-grigolatto/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ezequiel-grigolatto/" height="30" width="40" /></a>
-
+<a href="https://wa.me/ +54 + 3775447626"><img align="center" src="https://todocell.mx/wp-content/uploads/2019/03/Conoces-2.jpg" alt="wpp" height="30" width="60"/></a>
  
 <div  align="center">
 <img align="center" alt="coding" src="https://user-images.githubusercontent.com/86179966/142563326-0eafcba0-101f-495a-bb6b-d62fda4d27af.gif">
