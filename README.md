@@ -37,7 +37,7 @@ Algunos de los lenguajes, herramientas y frameworks que actualmente manejo son l
 
 <p> Con vistas de continuar mejorando mis habilidades, skills y lenguajes, estoy apuntando en el corto-mediano plazo a aprender Typescript y Phyton, ademas de asistir a una academia para mejorar mi nivel de inglés. <p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contacta conmigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ezequiel-grigolatto/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ezequiel-grigolatto/" height="30" width="40" /></a>
 <a href="https://wa.me/543775447626"><img align="center" src="https://todocell.mx/wp-content/uploads/2019/03/Conoces-2.jpg" alt="wpp" height="30" width="60"/></a>
