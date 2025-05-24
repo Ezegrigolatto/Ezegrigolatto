@@ -85,12 +85,16 @@ You can check out some of the projects I've worked on at [jeg-dev.com/projects](
 
 ---
 
-### ⚡ GitHub Stats (Optional)
+### ⚡ GitHub Stats for geeks
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ezegrigolatto&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EzegrigolattoSinapsis&show_icons=true&theme=radical" />
   <img src="https://streak-stats.demolab.com?user=Ezegrigolatto&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=EzegrigolattoSinapsis&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezegrigolatto&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzegrigolattoSinapsis&layout=compact&theme=radical" />
+
 </p>
 
 ---
