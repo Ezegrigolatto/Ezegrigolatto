@@ -1,47 +1,98 @@
+<h1 align="center">Hi 👋, I'm Ezequiel Grigolatto</h1>
+<h3 align="center">Frontend Software Engineer | Passionate about crafting beautiful and functional user experiences</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=rubik&color=%230474FF&size=25&lines=Bienvenidos+a+mi+perfil!)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://jeg-dev.com">
+    <img src="https://jeg-dev.com/images/avatar/avatar.png" width="120" alt="Ezequiel Grigolatto Avatar" />
+  </a>
+</p>
 
-### Hola! Soy Ezequiel! 👋
+<p align="center">
+  <a href="https://www.linkedin.com/in/ezequiel-grigolatto/">LinkedIn</a> • 
+  <a href="https://github.com/Ezegrigolatto">GitHub</a> • 
+  <a href="https://jeg-dev.com">Portfolio</a>
+</p>
 
-Soy un desarrollador fullstack de Javascript en busqueda de proyectos y retos donde pueda comenzar a probar mis skills y poner en practica dentro de un ambiente laboral todo lo aprendido durante mi estancia en el bootcamp de SoyHenry!
+---
 
-Apasionado por la tecnología y resolver problemas, ingresé en este hermoso mundo del desarrollo a finales de agosto / 2021 y desde entonces no he dejado de adquirir conocimientos y aprender cosas nuevas día a día, algo que me agrada mucho por cierto ya que el crecimiento personal fue el motor que me impulsó a dar un giro a mi vida y comenzar a estudiar programación web.
+### 🧠 About Me
 
- :point_right: **ABOUT ME** :point_left:
- 
- Soy una persona muy amistosa, trato de llevarme bien con todo el mundo! 
- Algunos de mis hobbies son escuchar musica, jugar videojuegos, leer, ver videos, y aprender cosas nuevas;  me gustaria comenzar a viajar y conocer otros lugares.
- Me motiva el desafio, el probarme y querer superarme, en todo lo que hago trato siempre de poner mi mejor esfuerzo y dedicación para obtener un buen resultado final.
- 
- Actualmente me encuentro abierto a ofertas laborales y siento que puedo aportar algo interesante a las empresas o proyectos que me requieran dada mi alta capacidad de adaptación, responsabilidad y/o flexibilidad.
+Hi there! I'm **Zeki**, a Software Engineer from Argentina 🇦🇷 specialized in **frontend development**. I love building elegant and performant user interfaces, solving complex problems, and optimizing usability.
 
- :point_right: **TECH SKILLS** :point_left:
+- 🧑‍🏫 I'm also a **math teacher**, which sparked my passion for logic and programming.
+- 🚀 I enjoy learning, teaching, and exploring new technologies.
+- 🌌 Big fan of **astronomy** – I'm on a personal journey to become an **astrophotographer**.
+- ⚽ I keep active with **football**, the **gym**, and strategy games 🎮 like FPS or chess (just not professionally 😅).
 
-Algunos de los lenguajes, herramientas y frameworks que actualmente manejo son los siguientes: Javascript, Html, Css, React, Redux, Express, Node.js, sequelize, postgreSQL, NPM.
+---
 
-<p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react" width="40" height="40"/> </a> 
-<a href="https://redux.js.org" target="_blank"> <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="redux" width="40" height="40"/> </a> 
-<a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="nodejs" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank"> <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://github.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://npmjs.com" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/npm-226037.png" alt="npm" width="40" height="40"/> </a>
-<a href="https://sequelize.org" target="_blank"> <img src="https://i.blogs.es/91493f/sequelize/1366_2000.png" alt="sequalize" width="80" height="40"/> </a>
+### 💼 Tech Stack
 
-<p> Con vistas de continuar mejorando mis habilidades, skills y lenguajes, estoy apuntando en el corto-mediano plazo a aprender Typescript y Phyton, ademas de asistir a una academia para mejorar mi nivel de inglés. <p>
+Here are some of the technologies I work with regularly:
 
-<h3 align="left">Contacta conmigo:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ezequiel-grigolatto/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ezequiel-grigolatto/" height="30" width="40" /></a>
-<a href="https://wa.me/543775447626"><img align="center" src="https://todocell.mx/wp-content/uploads/2019/03/Conoces-2.jpg" alt="wpp" height="30" width="60"/></a>
- 
-<div  align="center">
-<img align="center" alt="coding" src="https://user-images.githubusercontent.com/86179966/142563326-0eafcba0-101f-495a-bb6b-d62fda4d27af.gif">
-</div>
+#### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+![Shadcn UI](https://img.shields.io/badge/-shadcn_ui-000?style=flat-square)
+![Material UI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white&style=flat-square)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat-square)
+![Styled Components](https://img.shields.io/badge/-Styled--Components-db7093?logo=styled-components&logoColor=white&style=flat-square)
+
+#### State Management & Tools
+![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat-square)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square)
+![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat-square)
+
+#### Backend & Integration
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Stripe](https://img.shields.io/badge/-Stripe-008CDD?logo=stripe&logoColor=white&style=flat-square)
+![Contentful](https://img.shields.io/badge/-Contentful-2478CC?logo=contentful&logoColor=white&style=flat-square)
+![Sanity](https://img.shields.io/badge/-Sanity-F03E2F?logo=sanity&logoColor=white&style=flat-square)
+
+#### Analytics & Deployment
+![Google Analytics](https://img.shields.io/badge/-Analytics-E37400?logo=googleanalytics&logoColor=white&style=flat-square)
+![Google Tag Manager](https://img.shields.io/badge/-Tag%20Manager-34A853?logo=googletagmanager&logoColor=white&style=flat-square)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square)
+![AWS Amplify](https://img.shields.io/badge/-AWS%20Amplify-FF9900?logo=awsamplify&logoColor=white&style=flat-square)
+
+#### Dev Tools
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat-square)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat-square)
+![pnpm](https://img.shields.io/badge/-pnpm-F69220?logo=pnpm&logoColor=white&style=flat-square)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
+![Retool](https://img.shields.io/badge/-Retool-4B5563?logo=retool&logoColor=white&style=flat-square)
+
+---
+
+### 📌 Featured Projects
+
+You can check out some of the projects I've worked on at [jeg-dev.com/projects](https://jeg-dev.com/projects).
+
+> I'm always open to new challenges, collaborations, and meaningful work. Let's build something together!
+
+---
+
+### 📫 Let's Connect
+
+- 🌐 **Portfolio**: [jeg-dev.com](https://jeg-dev.com)
+- 🧑‍💼 **LinkedIn**: [linkedin.com/in/ezequiel-grigolatto](https://www.linkedin.com/in/ezequiel-grigolatto/)
+- 💻 **GitHub**: [github.com/Ezegrigolatto](https://github.com/Ezegrigolatto)
+
+---
+
+### ⚡ GitHub Stats (Optional)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ezegrigolatto&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Ezegrigolatto&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezegrigolatto&layout=compact&theme=radical" />
+</p>
+
+---
+
+_“Crafting functional, beautiful UIs — and aiming for the stars.”_
