@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zeki</h1>
 <h3 align="center">Frontend Software Engineer | Passionate about crafting beautiful and functional user experiences</h3>
 
-<p align="center">
-  <a href="https://jeg-dev.com">
-    <img src="https://jeg-dev.com/images/avatar/avatar.png" width="120" alt="Ezequiel Grigolatto Avatar" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ezequiel-grigolatto/">LinkedIn</a> • 
