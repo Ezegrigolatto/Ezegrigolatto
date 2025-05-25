@@ -96,10 +96,9 @@ You can check out some of the projects I've worked on at [jeg-dev.com/projects](
   <img src="https://streak-stats.demolab.com?user=EzegrigolattoSinapsis&theme=radical" />
 </p>
 
-⚡ WakaTime Stats
-<p>
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EzeGrigolatto)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+### ⚡ WakaTime Stats
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EzeGrigolatto)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
