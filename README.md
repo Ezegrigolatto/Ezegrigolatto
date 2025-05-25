@@ -22,7 +22,7 @@ Hi there! I'm **Zeki**, a Software Engineer from Argentina 🇦🇷 specialized 
 - 🧑‍🏫 I'm also a **math teacher**, which sparked my passion for logic and programming.
 - 🚀 I enjoy learning, teaching, and exploring new technologies.
 - 🌌 Big fan of **astronomy** – I'm on a personal journey to become an **astrophotographer**.
-- ⚽ I keep active with **football**, the **gym**, and strategy games 🎮 like FPS or chess (just not professionally 😅).
+- ⚽ I keep active with **football**, the **gym**, and strategy videogames 🎮 or chess (just not professionally 😅).
 
 ---
 
