@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ezequiel Grigolatto</h1>
+<h1 align="center">Hi 👋, I'm Zeki</h1>
 <h3 align="center">Frontend Software Engineer | Passionate about crafting beautiful and functional user experiences</h3>
 
 <p align="center">
