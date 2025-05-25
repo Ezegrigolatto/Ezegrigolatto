@@ -91,7 +91,7 @@ You can check out some of the projects I've worked on at [jeg-dev.com/projects](
   <img src="https://github-readme-stats.vercel.app/api?username=Ezegrigolatto&show_icons=true&theme=codeSTACKr" />
   <img src="https://github-readme-stats-ebon-eta-84.vercel.app/api?username=EzegrigolattoSinapsis&show_icons=true&theme=codeSTACKr" />
 </p>
-<p>
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=Ezegrigolatto&theme=codeSTACKr" />
   <img src="https://streak-stats.demolab.com?user=EzegrigolattoSinapsis&theme=codeSTACKr" />
 </p>
