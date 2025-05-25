@@ -88,17 +88,13 @@ You can check out some of the projects I've worked on at [jeg-dev.com/projects](
 ### ⚡ GitHub Stats for geeks
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ezegrigolatto&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats-ebon-eta-84.vercel.app/api?username=EzegrigolattoSinapsis&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ezegrigolatto&show_icons=true&theme=codeSTACKr" />
+  <img src="https://github-readme-stats-ebon-eta-84.vercel.app/api?username=EzegrigolattoSinapsis&show_icons=true&theme=codeSTACKr" />
 </p>
 <p>
-  <img src="https://streak-stats.demolab.com?user=Ezegrigolatto&theme=radical" />
-  <img src="https://streak-stats.demolab.com?user=EzegrigolattoSinapsis&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Ezegrigolatto&theme=codeSTACKr" />
+  <img src="https://streak-stats.demolab.com?user=EzegrigolattoSinapsis&theme=codeSTACKr" />
 </p>
-
-### ⚡ WakaTime Stats
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EzeGrigolatto)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
